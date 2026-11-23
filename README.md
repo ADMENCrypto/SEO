@@ -1,6 +1,6 @@
 # テンプレート - Mag
 
-> **YS Money Labの運用方針**：ブランドの正本は [docs/YS_MONEY_LAB_BRAND.md](docs/YS_MONEY_LAB_BRAND.md)、AI向け作業ルールは [AGENTS.md](AGENTS.md) を参照してください。
+> **YS Money Labの運用方針**：YS Money LabはADMEN／ADMENCryptoとは別事業・別ブランドです。ブランドの正本は [docs/YS_MONEY_LAB_BRAND.md](docs/YS_MONEY_LAB_BRAND.md)、AI向け作業ルールは [AGENTS.md](AGENTS.md) を参照してください。
 
 このテンプレートは[Next.js](https://nextjs.org/)の[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)で動作します。
 
